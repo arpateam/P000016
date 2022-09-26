@@ -1,0 +1,1757 @@
+%!Adobe-FontList 1.19
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\#ARPATEAM (NEW)\Identitas #ARPATEAM\Banner\Font\Lemon Milk Demo 1.png
+FileModTime:1579060418
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\#ARPATEAM (NEW)\Identitas #ARPATEAM\Banner\Font\Lemon Milk Demo 2.png
+FileModTime:1579060482
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\#ARPATEAM (NEW)\Identitas #ARPATEAM\Banner\Font\Lemon Milk Demo 3.png
+FileModTime:1579060708
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:LEMONMILK-Bold
+FamilyName:LEMON MILK
+StyleName:Bold
+FullName:LEMON MILK Bold
+MenuName:LEMON MILK Bold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\#ARPATEAM (NEW)\Identitas #ARPATEAM\Banner\Font\LEMONMILK-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:34596
+FileModTime:1579039856
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,LEMON MILK Bold
+NameArray:0,Win,1,LEMON MILK Bold
+NameArray:0,Win,16,LEMON MILK
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:LEMONMILK-BoldItalic
+FamilyName:LEMON MILK
+StyleName:Bold Italic
+FullName:LEMON MILK Bold Italic
+MenuName:LEMON MILK Bold
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:E:\#ARPATEAM (NEW)\Identitas #ARPATEAM\Banner\Font\LEMONMILK-BoldItalic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:34776
+FileModTime:1579061146
+WeightClass:700
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,LEMON MILK Bold Italic
+NameArray:0,Win,1,LEMON MILK Bold
+NameArray:0,Win,16,LEMON MILK
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:LEMONMILK-Light
+FamilyName:LEMON MILK
+StyleName:Light
+FullName:LEMON MILK Light
+MenuName:LEMON MILK Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\#ARPATEAM (NEW)\Identitas #ARPATEAM\Banner\Font\LEMONMILK-Light.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:33652
+FileModTime:1579039856
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,LEMON MILK Light
+NameArray:0,Win,1,LEMON MILK Light
+NameArray:0,Win,16,LEMON MILK
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:LEMONMILK-LightItalic
+FamilyName:LEMON MILK
+StyleName:Light Italic
+FullName:LEMON MILK Light Italic
+MenuName:LEMON MILK Light
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:E:\#ARPATEAM (NEW)\Identitas #ARPATEAM\Banner\Font\LEMONMILK-LightItalic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:34496
+FileModTime:1579061146
+WeightClass:300
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,LEMON MILK Light Italic
+NameArray:0,Win,1,LEMON MILK Light
+NameArray:0,Win,16,LEMON MILK
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:LEMONMILK-Medium
+FamilyName:LEMON MILK
+StyleName:Medium
+FullName:LEMON MILK Medium
+MenuName:LEMON MILK Medium
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\#ARPATEAM (NEW)\Identitas #ARPATEAM\Banner\Font\LEMONMILK-Medium.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:33760
+FileModTime:1579039856
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,LEMON MILK Medium
+NameArray:0,Win,1,LEMON MILK Medium
+NameArray:0,Win,16,LEMON MILK
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:LEMONMILK-MediumItalic
+FamilyName:LEMON MILK
+StyleName:Medium Italic
+FullName:LEMON MILK Medium Italic
+MenuName:LEMON MILK Medium
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:E:\#ARPATEAM (NEW)\Identitas #ARPATEAM\Banner\Font\LEMONMILK-MediumItalic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:33864
+FileModTime:1579061146
+WeightClass:500
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,LEMON MILK Medium Italic
+NameArray:0,Win,1,LEMON MILK Medium
+NameArray:0,Win,16,LEMON MILK
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:LEMONMILK-Regular
+FamilyName:LEMON MILK
+StyleName:Regular
+FullName:LEMON MILK Regular
+MenuName:LEMON MILK
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\#ARPATEAM (NEW)\Identitas #ARPATEAM\Banner\Font\LEMONMILK-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:34568
+FileModTime:1579039856
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,LEMON MILK Regular
+NameArray:0,Win,1,LEMON MILK
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:LEMONMILK-RegularItalic
+FamilyName:LEMON MILK
+StyleName:Regular Italic
+FullName:LEMON MILK Regular Italic
+MenuName:LEMON MILK
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:E:\#ARPATEAM (NEW)\Identitas #ARPATEAM\Banner\Font\LEMONMILK-RegularItalic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:34816
+FileModTime:1579061146
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,LEMON MILK Regular Italic
+NameArray:0,Win,1,LEMON MILK
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Montserrat-Black
+FamilyName:Montserrat
+StyleName:Black
+FullName:Montserrat Black
+MenuName:Montserrat Black
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\#ARPATEAM (NEW)\Identitas #ARPATEAM\Banner\Font\Montserrat-Black.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:230124
+FileModTime:1634337436
+WeightClass:900
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Montserrat Black
+NameArray:0,Win,1,Montserrat Black
+NameArray:0,Win,16,Montserrat
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Montserrat-BlackItalic
+FamilyName:Montserrat
+StyleName:Black Italic
+FullName:Montserrat Black Italic
+MenuName:Montserrat Black
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:E:\#ARPATEAM (NEW)\Identitas #ARPATEAM\Banner\Font\Montserrat-BlackItalic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:236868
+FileModTime:1634337436
+WeightClass:900
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Montserrat Black Italic
+NameArray:0,Win,1,Montserrat Black
+NameArray:0,Win,16,Montserrat
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Montserrat-Bold
+FamilyName:Montserrat
+StyleName:Bold
+FullName:Montserrat Bold
+MenuName:Montserrat
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:E:\#ARPATEAM (NEW)\Identitas #ARPATEAM\Banner\Font\Montserrat-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:235192
+FileModTime:1634337436
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Montserrat Bold
+NameArray:0,Win,1,Montserrat
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Montserrat-BoldItalic
+FamilyName:Montserrat
+StyleName:Bold Italic
+FullName:Montserrat Bold Italic
+MenuName:Montserrat
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:E:\#ARPATEAM (NEW)\Identitas #ARPATEAM\Banner\Font\Montserrat-BoldItalic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:243084
+FileModTime:1634337436
+WeightClass:700
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Montserrat Bold Italic
+NameArray:0,Win,1,Montserrat
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Montserrat-ExtraBold
+FamilyName:Montserrat
+StyleName:ExtraBold
+FullName:Montserrat ExtraBold
+MenuName:Montserrat ExtraBold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\#ARPATEAM (NEW)\Identitas #ARPATEAM\Banner\Font\Montserrat-ExtraBold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:234432
+FileModTime:1634337436
+WeightClass:800
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Montserrat ExtraBold
+NameArray:0,Win,1,Montserrat ExtraBold
+NameArray:0,Win,16,Montserrat
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Montserrat-ExtraBoldItalic
+FamilyName:Montserrat
+StyleName:ExtraBold Italic
+FullName:Montserrat ExtraBold Italic
+MenuName:Montserrat ExtraBold
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:E:\#ARPATEAM (NEW)\Identitas #ARPATEAM\Banner\Font\Montserrat-ExtraBoldItalic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:242800
+FileModTime:1634337436
+WeightClass:800
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Montserrat ExtraBold Italic
+NameArray:0,Win,1,Montserrat ExtraBold
+NameArray:0,Win,16,Montserrat
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Montserrat-ExtraLight
+FamilyName:Montserrat
+StyleName:ExtraLight
+FullName:Montserrat ExtraLight
+MenuName:Montserrat ExtraLight
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\#ARPATEAM (NEW)\Identitas #ARPATEAM\Banner\Font\Montserrat-ExtraLight.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:226772
+FileModTime:1634337436
+WeightClass:275
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Montserrat ExtraLight
+NameArray:0,Win,1,Montserrat ExtraLight
+NameArray:0,Win,16,Montserrat
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Montserrat-ExtraLightItalic
+FamilyName:Montserrat
+StyleName:ExtraLight Italic
+FullName:Montserrat ExtraLight Italic
+MenuName:Montserrat ExtraLight
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:E:\#ARPATEAM (NEW)\Identitas #ARPATEAM\Banner\Font\Montserrat-ExtraLightItalic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:236444
+FileModTime:1634337436
+WeightClass:275
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Montserrat ExtraLight Italic
+NameArray:0,Win,1,Montserrat ExtraLight
+NameArray:0,Win,16,Montserrat
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Montserrat-Italic
+FamilyName:Montserrat
+StyleName:Italic
+FullName:Montserrat Italic
+MenuName:Montserrat
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:E:\#ARPATEAM (NEW)\Identitas #ARPATEAM\Banner\Font\Montserrat-Italic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:237828
+FileModTime:1634337436
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Montserrat Italic
+NameArray:0,Win,1,Montserrat
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Montserrat-Light
+FamilyName:Montserrat
+StyleName:Light
+FullName:Montserrat Light
+MenuName:Montserrat Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\#ARPATEAM (NEW)\Identitas #ARPATEAM\Banner\Font\Montserrat-Light.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:228068
+FileModTime:1634337436
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Montserrat Light
+NameArray:0,Win,1,Montserrat Light
+NameArray:0,Win,16,Montserrat
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Montserrat-LightItalic
+FamilyName:Montserrat
+StyleName:Light Italic
+FullName:Montserrat Light Italic
+MenuName:Montserrat Light
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:E:\#ARPATEAM (NEW)\Identitas #ARPATEAM\Banner\Font\Montserrat-LightItalic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:237832
+FileModTime:1634337436
+WeightClass:300
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Montserrat Light Italic
+NameArray:0,Win,1,Montserrat Light
+NameArray:0,Win,16,Montserrat
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Montserrat-Medium
+FamilyName:Montserrat
+StyleName:Medium
+FullName:Montserrat Medium
+MenuName:Montserrat Medium
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\#ARPATEAM (NEW)\Identitas #ARPATEAM\Banner\Font\Montserrat-Medium.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:230356
+FileModTime:1634337436
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Montserrat Medium
+NameArray:0,Win,1,Montserrat Medium
+NameArray:0,Win,16,Montserrat
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Montserrat-MediumItalic
+FamilyName:Montserrat
+StyleName:Medium Italic
+FullName:Montserrat Medium Italic
+MenuName:Montserrat Medium
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:E:\#ARPATEAM (NEW)\Identitas #ARPATEAM\Banner\Font\Montserrat-MediumItalic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:239660
+FileModTime:1634337436
+WeightClass:500
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Montserrat Medium Italic
+NameArray:0,Win,1,Montserrat Medium
+NameArray:0,Win,16,Montserrat
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Montserrat-Regular
+FamilyName:Montserrat
+StyleName:Regular
+FullName:Montserrat Regular
+MenuName:Montserrat
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\#ARPATEAM (NEW)\Identitas #ARPATEAM\Banner\Font\Montserrat-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:228620
+FileModTime:1634337436
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Montserrat Regular
+NameArray:0,Win,1,Montserrat
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Montserrat-SemiBold
+FamilyName:Montserrat
+StyleName:SemiBold
+FullName:Montserrat SemiBold
+MenuName:Montserrat SemiBold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\#ARPATEAM (NEW)\Identitas #ARPATEAM\Banner\Font\Montserrat-SemiBold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:234056
+FileModTime:1634337436
+WeightClass:600
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Montserrat SemiBold
+NameArray:0,Win,1,Montserrat SemiBold
+NameArray:0,Win,16,Montserrat
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Montserrat-SemiBoldItalic
+FamilyName:Montserrat
+StyleName:SemiBold Italic
+FullName:Montserrat SemiBold Italic
+MenuName:Montserrat SemiBold
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:E:\#ARPATEAM (NEW)\Identitas #ARPATEAM\Banner\Font\Montserrat-SemiBoldItalic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:242672
+FileModTime:1634337436
+WeightClass:600
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Montserrat SemiBold Italic
+NameArray:0,Win,1,Montserrat SemiBold
+NameArray:0,Win,16,Montserrat
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Montserrat-Thin
+FamilyName:Montserrat
+StyleName:Thin
+FullName:Montserrat Thin
+MenuName:Montserrat Thin
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\#ARPATEAM (NEW)\Identitas #ARPATEAM\Banner\Font\Montserrat-Thin.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:217636
+FileModTime:1634337436
+WeightClass:250
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Montserrat Thin
+NameArray:0,Win,1,Montserrat Thin
+NameArray:0,Win,16,Montserrat
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Montserrat-ThinItalic
+FamilyName:Montserrat
+StyleName:Thin Italic
+FullName:Montserrat Thin Italic
+MenuName:Montserrat Thin
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:E:\#ARPATEAM (NEW)\Identitas #ARPATEAM\Banner\Font\Montserrat-ThinItalic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:227984
+FileModTime:1634337436
+WeightClass:250
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Montserrat Thin Italic
+NameArray:0,Win,1,Montserrat Thin
+NameArray:0,Win,16,Montserrat
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MontserratAlternates-Black
+FamilyName:Montserrat Alternates
+StyleName:Black
+FullName:Montserrat Alternates Black
+MenuName:Montserrat Alternates Black
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\#ARPATEAM (NEW)\Identitas #ARPATEAM\Banner\Font\MontserratAlternates-Black.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:184200
+FileModTime:1634337436
+WeightClass:900
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Montserrat Alternates Black
+NameArray:0,Win,1,Montserrat Alternates Black
+NameArray:0,Win,16,Montserrat Alternates
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MontserratAlternates-BlackItalic
+FamilyName:Montserrat Alternates
+StyleName:Black Italic
+FullName:Montserrat Alternates Black Italic
+MenuName:Montserrat Alternates Black
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:E:\#ARPATEAM (NEW)\Identitas #ARPATEAM\Banner\Font\MontserratAlternates-BlackItalic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:186764
+FileModTime:1634337436
+WeightClass:900
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,18,Montserrat Alternates Black It
+NameArray:0,Mac,4,Montserrat Alternates Black Italic
+NameArray:0,Win,1,Montserrat Alternates Black
+NameArray:0,Win,16,Montserrat Alternates
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MontserratAlternates-Bold
+FamilyName:Montserrat Alternates
+StyleName:Bold
+FullName:Montserrat Alternates Bold
+MenuName:Montserrat Alternates
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:E:\#ARPATEAM (NEW)\Identitas #ARPATEAM\Banner\Font\MontserratAlternates-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:187392
+FileModTime:1634337436
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Montserrat Alternates Bold
+NameArray:0,Win,1,Montserrat Alternates
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MontserratAlternates-BoldItalic
+FamilyName:Montserrat Alternates
+StyleName:Bold Italic
+FullName:Montserrat Alternates Bold Italic
+MenuName:Montserrat Alternates
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:E:\#ARPATEAM (NEW)\Identitas #ARPATEAM\Banner\Font\MontserratAlternates-BoldItalic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:191820
+FileModTime:1634337436
+WeightClass:700
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,18,Montserrat Alternates Bold It
+NameArray:0,Mac,4,Montserrat Alternates Bold Italic
+NameArray:0,Win,1,Montserrat Alternates
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MontserratAlternates-ExtraBold
+FamilyName:Montserrat Alternates
+StyleName:ExtraBold
+FullName:Montserrat Alternates ExtraBold
+MenuName:Montserrat Alternates ExtraBold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\#ARPATEAM (NEW)\Identitas #ARPATEAM\Banner\Font\MontserratAlternates-ExtraBold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:186888
+FileModTime:1634337436
+WeightClass:800
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Montserrat Alternates ExtraBold
+NameArray:0,Win,1,Montserrat Alternates ExtraBold
+NameArray:0,Win,16,Montserrat Alternates
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MontserratAlternates-ExtraBoldItalic
+FamilyName:Montserrat Alternates
+StyleName:ExtraBold Italic
+FullName:Montserrat Alternates ExtraBold Italic
+MenuName:Montserrat Alternates ExtraBold
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:E:\#ARPATEAM (NEW)\Identitas #ARPATEAM\Banner\Font\MontserratAlternates-ExtraBoldItalic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:191300
+FileModTime:1634337436
+WeightClass:800
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,18,Montserrat Alternates ExBold It
+NameArray:0,Mac,4,Montserrat Alternates ExtraBold Italic
+NameArray:0,Win,1,Montserrat Alternates ExtraBold
+NameArray:0,Win,16,Montserrat Alternates
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MontserratAlternates-ExtraLight
+FamilyName:Montserrat Alternates
+StyleName:ExtraLight
+FullName:Montserrat Alternates ExtraLight
+MenuName:Montserrat Alternates ExLight
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\#ARPATEAM (NEW)\Identitas #ARPATEAM\Banner\Font\MontserratAlternates-ExtraLight.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:179680
+FileModTime:1634337436
+WeightClass:275
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Montserrat Alternates ExtraLight
+NameArray:0,Win,1,Montserrat Alternates ExLight
+NameArray:0,Win,16,Montserrat Alternates
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MontserratAlternates-ExtraLightItalic
+FamilyName:Montserrat Alternates
+StyleName:ExtraLight Italic
+FullName:Montserrat Alternates ExtraLight Italic
+MenuName:Montserrat Alternates ExLight
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:E:\#ARPATEAM (NEW)\Identitas #ARPATEAM\Banner\Font\MontserratAlternates-ExtraLightItalic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:185520
+FileModTime:1634337436
+WeightClass:275
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,18,Montserrat Alternates ExLight It
+NameArray:0,Mac,4,Montserrat Alternates ExtraLight Italic
+NameArray:0,Win,1,Montserrat Alternates ExLight
+NameArray:0,Win,16,Montserrat Alternates
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MontserratAlternates-Italic
+FamilyName:Montserrat Alternates
+StyleName:Italic
+FullName:Montserrat Alternates Italic
+MenuName:Montserrat Alternates
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:E:\#ARPATEAM (NEW)\Identitas #ARPATEAM\Banner\Font\MontserratAlternates-Italic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:187068
+FileModTime:1634337436
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Montserrat Alternates Italic
+NameArray:0,Win,1,Montserrat Alternates
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MontserratAlternates-Light
+FamilyName:Montserrat Alternates
+StyleName:Light
+FullName:Montserrat Alternates Light
+MenuName:Montserrat Alternates Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\#ARPATEAM (NEW)\Identitas #ARPATEAM\Banner\Font\MontserratAlternates-Light.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:180736
+FileModTime:1634337436
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Montserrat Alternates Light
+NameArray:0,Win,1,Montserrat Alternates Light
+NameArray:0,Win,16,Montserrat Alternates
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MontserratAlternates-LightItalic
+FamilyName:Montserrat Alternates
+StyleName:Light Italic
+FullName:Montserrat Alternates Light Italic
+MenuName:Montserrat Alternates Light
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:E:\#ARPATEAM (NEW)\Identitas #ARPATEAM\Banner\Font\MontserratAlternates-LightItalic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:186624
+FileModTime:1634337436
+WeightClass:300
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,18,Montserrat Alternates Light It
+NameArray:0,Mac,4,Montserrat Alternates Light Italic
+NameArray:0,Win,1,Montserrat Alternates Light
+NameArray:0,Win,16,Montserrat Alternates
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MontserratAlternates-Medium
+FamilyName:Montserrat Alternates
+StyleName:Medium
+FullName:Montserrat Alternates Medium
+MenuName:Montserrat Alternates Medium
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\#ARPATEAM (NEW)\Identitas #ARPATEAM\Banner\Font\MontserratAlternates-Medium.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:183104
+FileModTime:1634337436
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Montserrat Alternates Medium
+NameArray:0,Win,1,Montserrat Alternates Medium
+NameArray:0,Win,16,Montserrat Alternates
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MontserratAlternates-MediumItalic
+FamilyName:Montserrat Alternates
+StyleName:Medium Italic
+FullName:Montserrat Alternates Medium Italic
+MenuName:Montserrat Alternates Medium
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:E:\#ARPATEAM (NEW)\Identitas #ARPATEAM\Banner\Font\MontserratAlternates-MediumItalic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:188564
+FileModTime:1634337436
+WeightClass:500
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,18,Montserrat Alternates Medium It
+NameArray:0,Mac,4,Montserrat Alternates Medium Italic
+NameArray:0,Win,1,Montserrat Alternates Medium
+NameArray:0,Win,16,Montserrat Alternates
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MontserratAlternates-Regular
+FamilyName:Montserrat Alternates
+StyleName:Regular
+FullName:Montserrat Alternates Regular
+MenuName:Montserrat Alternates
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\#ARPATEAM (NEW)\Identitas #ARPATEAM\Banner\Font\MontserratAlternates-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:181996
+FileModTime:1634337436
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Montserrat Alternates Regular
+NameArray:0,Win,1,Montserrat Alternates
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MontserratAlternates-SemiBold
+FamilyName:Montserrat Alternates
+StyleName:SemiBold
+FullName:Montserrat Alternates SemiBold
+MenuName:Montserrat Alternates SemiBold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\#ARPATEAM (NEW)\Identitas #ARPATEAM\Banner\Font\MontserratAlternates-SemiBold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:185876
+FileModTime:1634337436
+WeightClass:600
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Montserrat Alternates SemiBold
+NameArray:0,Win,1,Montserrat Alternates SemiBold
+NameArray:0,Win,16,Montserrat Alternates
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MontserratAlternates-SemiBoldItalic
+FamilyName:Montserrat Alternates
+StyleName:SemiBold Italic
+FullName:Montserrat Alternates SemiBold Italic
+MenuName:Montserrat Alternates SemiBold
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:E:\#ARPATEAM (NEW)\Identitas #ARPATEAM\Banner\Font\MontserratAlternates-SemiBoldItalic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:190496
+FileModTime:1634337436
+WeightClass:600
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,18,Montserrat Alternates SmBold It
+NameArray:0,Mac,4,Montserrat Alternates SemiBold Italic
+NameArray:0,Win,1,Montserrat Alternates SemiBold
+NameArray:0,Win,16,Montserrat Alternates
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MontserratAlternates-Thin
+FamilyName:Montserrat Alternates
+StyleName:Thin
+FullName:Montserrat Alternates Thin
+MenuName:Montserrat Alternates Thin
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\#ARPATEAM (NEW)\Identitas #ARPATEAM\Banner\Font\MontserratAlternates-Thin.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:173616
+FileModTime:1634337436
+WeightClass:250
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Montserrat Alternates Thin
+NameArray:0,Win,1,Montserrat Alternates Thin
+NameArray:0,Win,16,Montserrat Alternates
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MontserratAlternates-ThinItalic
+FamilyName:Montserrat Alternates
+StyleName:Thin Italic
+FullName:Montserrat Alternates Thin Italic
+MenuName:Montserrat Alternates Thin
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:E:\#ARPATEAM (NEW)\Identitas #ARPATEAM\Banner\Font\MontserratAlternates-ThinItalic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:179448
+FileModTime:1634337436
+WeightClass:250
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,18,Montserrat Alternates Thin It
+NameArray:0,Mac,4,Montserrat Alternates Thin Italic
+NameArray:0,Win,1,Montserrat Alternates Thin
+NameArray:0,Win,16,Montserrat Alternates
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\#ARPATEAM (NEW)\Identitas #ARPATEAM\Banner\Font\READ_ME.txt
+FileModTime:1579063284
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\#ARPATEAM (NEW)\Identitas #ARPATEAM\Banner\Font\rozha-one.zip
+FileModTime:1634550717
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\#ARPATEAM (NEW)\Identitas #ARPATEAM\Banner\Font\SIL Open Font License.txt
+FileModTime:1634337436
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\#ARPATEAM (NEW)\Identitas #ARPATEAM\Banner\Font\work-sans.zip
+FileModTime:1634550709
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\#ARPATEAM (NEW)\Identitas #ARPATEAM\Banner\Font\work-sans\SIL Open Font License.txt
+FileModTime:1634511100
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:WorkSans-Black
+FamilyName:Work Sans
+StyleName:Black
+FullName:Work Sans Black
+MenuName:Work Sans Black
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\#ARPATEAM (NEW)\Identitas #ARPATEAM\Banner\Font\work-sans\WorkSans-Black.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:203512
+FileModTime:1634511100
+WeightClass:900
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Work Sans Black
+NameArray:0,Win,16,Work Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:WorkSans-BlackItalic
+FamilyName:Work Sans
+StyleName:Black Italic
+FullName:Work Sans Black Italic
+MenuName:Work Sans Black
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:E:\#ARPATEAM (NEW)\Identitas #ARPATEAM\Banner\Font\work-sans\WorkSans-BlackItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:186292
+FileModTime:1634511100
+WeightClass:900
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Work Sans Black
+NameArray:0,Win,16,Work Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:WorkSans-Bold
+FamilyName:Work Sans
+StyleName:Bold
+FullName:Work Sans Bold
+MenuName:Work Sans
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:E:\#ARPATEAM (NEW)\Identitas #ARPATEAM\Banner\Font\work-sans\WorkSans-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:220720
+FileModTime:1634511100
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Work Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:WorkSans-BoldItalic
+FamilyName:Work Sans
+StyleName:Bold Italic
+FullName:Work Sans Bold Italic
+MenuName:Work Sans
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:E:\#ARPATEAM (NEW)\Identitas #ARPATEAM\Banner\Font\work-sans\WorkSans-BoldItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:203856
+FileModTime:1634511100
+WeightClass:700
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Work Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:WorkSans-ExtraBold
+FamilyName:Work Sans
+StyleName:ExtraBold
+FullName:Work Sans ExtraBold
+MenuName:Work Sans ExtraBold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\#ARPATEAM (NEW)\Identitas #ARPATEAM\Banner\Font\work-sans\WorkSans-ExtraBold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:223696
+FileModTime:1634511100
+WeightClass:800
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Work Sans ExtraBold
+NameArray:0,Win,16,Work Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:WorkSans-ExtraBoldItalic
+FamilyName:Work Sans
+StyleName:ExtraBold Italic
+FullName:Work Sans ExtraBold Italic
+MenuName:Work Sans ExtraBold
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:E:\#ARPATEAM (NEW)\Identitas #ARPATEAM\Banner\Font\work-sans\WorkSans-ExtraBoldItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:205716
+FileModTime:1634511100
+WeightClass:800
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Work Sans ExtraBold
+NameArray:0,Win,16,Work Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:WorkSans-ExtraLight
+FamilyName:Work Sans
+StyleName:ExtraLight
+FullName:Work Sans ExtraLight
+MenuName:Work Sans ExtraLight
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\#ARPATEAM (NEW)\Identitas #ARPATEAM\Banner\Font\work-sans\WorkSans-ExtraLight.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:219256
+FileModTime:1634511100
+WeightClass:200
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Work Sans ExtraLight
+NameArray:0,Win,16,Work Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:WorkSans-ExtraLightItalic
+FamilyName:Work Sans
+StyleName:ExtraLight Italic
+FullName:Work Sans ExtraLight Italic
+MenuName:Work Sans ExtraLight
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:E:\#ARPATEAM (NEW)\Identitas #ARPATEAM\Banner\Font\work-sans\WorkSans-ExtraLightItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:203392
+FileModTime:1634511100
+WeightClass:200
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Work Sans ExtraLight
+NameArray:0,Win,16,Work Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:WorkSans-Hairline
+FamilyName:Work Sans
+StyleName:Hairline
+FullName:Work Sans Hairline
+MenuName:Work Sans Hairline
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\#ARPATEAM (NEW)\Identitas #ARPATEAM\Banner\Font\work-sans\WorkSans-Hairline.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:88956
+FileModTime:1634511100
+WeightClass:50
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Work Sans Hairline
+NameArray:0,Win,1,Work Sans Hairline
+NameArray:0,Win,16,Work Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:WorkSans-Italic
+FamilyName:Work Sans
+StyleName:Italic
+FullName:Work Sans Italic
+MenuName:Work Sans
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:E:\#ARPATEAM (NEW)\Identitas #ARPATEAM\Banner\Font\work-sans\worksans-italic-vf.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:TrueTypeVariableFont
+FileLength:316796
+FileModTime:1634511100
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Work Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:WorkSans-Italic
+FamilyName:Work Sans
+StyleName:Italic
+FullName:Work Sans Italic
+MenuName:Work Sans
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:E:\#ARPATEAM (NEW)\Identitas #ARPATEAM\Banner\Font\work-sans\WorkSans-Italic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:197848
+FileModTime:1634511100
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Work Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:WorkSans-Italic
+FamilyName:Work Sans
+StyleName:Italic
+FullName:Work Sans Italic
+MenuName:Work Sans
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:E:\#ARPATEAM (NEW)\Identitas #ARPATEAM\Banner\Font\work-sans\WorkSans-Italic[wght].ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:TrueTypeVariableFont
+FileLength:374244
+FileModTime:1634511100
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Work Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:WorkSans-Light
+FamilyName:Work Sans
+StyleName:Light
+FullName:Work Sans Light
+MenuName:Work Sans Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\#ARPATEAM (NEW)\Identitas #ARPATEAM\Banner\Font\work-sans\WorkSans-Light.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:218096
+FileModTime:1634511100
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Work Sans Light
+NameArray:0,Win,16,Work Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:WorkSans-LightItalic
+FamilyName:Work Sans
+StyleName:Light Italic
+FullName:Work Sans Light Italic
+MenuName:Work Sans Light
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:E:\#ARPATEAM (NEW)\Identitas #ARPATEAM\Banner\Font\work-sans\WorkSans-LightItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:202348
+FileModTime:1634511100
+WeightClass:300
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Work Sans Light
+NameArray:0,Win,16,Work Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:WorkSans-Medium
+FamilyName:Work Sans
+StyleName:Medium
+FullName:Work Sans Medium
+MenuName:Work Sans Medium
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\#ARPATEAM (NEW)\Identitas #ARPATEAM\Banner\Font\work-sans\WorkSans-Medium.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:222904
+FileModTime:1634511100
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Work Sans Medium
+NameArray:0,Win,16,Work Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:WorkSans-MediumItalic
+FamilyName:Work Sans
+StyleName:Medium Italic
+FullName:Work Sans Medium Italic
+MenuName:Work Sans Medium
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:E:\#ARPATEAM (NEW)\Identitas #ARPATEAM\Banner\Font\work-sans\WorkSans-MediumItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:206060
+FileModTime:1634511100
+WeightClass:500
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Work Sans Medium
+NameArray:0,Win,16,Work Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:WorkSans-Regular
+FamilyName:Work Sans
+StyleName:Regular
+FullName:Work Sans Regular
+MenuName:Work Sans
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\#ARPATEAM (NEW)\Identitas #ARPATEAM\Banner\Font\work-sans\WorkSans-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:212660
+FileModTime:1634511100
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Work Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:WorkSans-Regular
+FamilyName:Work Sans
+StyleName:Regular
+FullName:Work Sans Regular
+MenuName:Work Sans
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\#ARPATEAM (NEW)\Identitas #ARPATEAM\Banner\Font\work-sans\worksans-roman-vf.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:TrueTypeVariableFont
+FileLength:334676
+FileModTime:1634511100
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Work Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:WorkSans-SemiBold
+FamilyName:Work Sans
+StyleName:SemiBold
+FullName:Work Sans SemiBold
+MenuName:Work Sans SemiBold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\#ARPATEAM (NEW)\Identitas #ARPATEAM\Banner\Font\work-sans\WorkSans-SemiBold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:222708
+FileModTime:1634511100
+WeightClass:600
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Work Sans SemiBold
+NameArray:0,Win,16,Work Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:WorkSans-SemiBoldItalic
+FamilyName:Work Sans
+StyleName:SemiBold Italic
+FullName:Work Sans SemiBold Italic
+MenuName:Work Sans SemiBold
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:E:\#ARPATEAM (NEW)\Identitas #ARPATEAM\Banner\Font\work-sans\WorkSans-SemiBoldItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:204652
+FileModTime:1634511100
+WeightClass:600
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Work Sans SemiBold
+NameArray:0,Win,16,Work Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:WorkSans-Thin
+FamilyName:Work Sans
+StyleName:Thin
+FullName:Work Sans Thin
+MenuName:Work Sans Thin
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\#ARPATEAM (NEW)\Identitas #ARPATEAM\Banner\Font\work-sans\WorkSans-Thin.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:217368
+FileModTime:1634511100
+WeightClass:100
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Work Sans Thin
+NameArray:0,Win,16,Work Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:WorkSans-ThinItalic
+FamilyName:Work Sans
+StyleName:Thin Italic
+FullName:Work Sans Thin Italic
+MenuName:Work Sans Thin
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:E:\#ARPATEAM (NEW)\Identitas #ARPATEAM\Banner\Font\work-sans\WorkSans-ThinItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:197308
+FileModTime:1634511100
+WeightClass:100
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Work Sans Thin
+NameArray:0,Win,16,Work Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:WorkSans-Regular
+FamilyName:Work Sans
+StyleName:Regular
+FullName:Work Sans Regular
+MenuName:Work Sans
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\#ARPATEAM (NEW)\Identitas #ARPATEAM\Banner\Font\work-sans\WorkSans[wght].ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:TrueTypeVariableFont
+FileLength:398584
+FileModTime:1634511100
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Work Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:RozhaOne
+FamilyName:Rozha One
+StyleName:Regular
+FullName:Rozha One
+MenuName:Rozha One
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\#ARPATEAM (NEW)\Identitas #ARPATEAM\Banner\Font\rozha-one\RozhaOne-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:94912
+FileModTime:1634511116
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Rozha One
+NameArray:0,Win,1,Rozha One
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\#ARPATEAM (NEW)\Identitas #ARPATEAM\Banner\Font\rozha-one\SIL Open Font License.txt
+FileModTime:1634511116
+%EndFont
+
